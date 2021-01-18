@@ -1,2 +1,2 @@
-# creacionAPIpelis
-creacion de una a pi de pelis
+# flimApi
+Practica de apifilm con pug y fetch

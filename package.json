@@ -1,0 +1,26 @@
+{
+  "name": "flimapi",
+  "version": "1.0.0",
+  "description": "app con fetch de las apis de pelis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuadri84/flimApi.git"
+  },
+  "author": "Cuadri84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cuadri84/flimApi/issues"
+  },
+  "homepage": "https://github.com/Cuadri84/flimApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
